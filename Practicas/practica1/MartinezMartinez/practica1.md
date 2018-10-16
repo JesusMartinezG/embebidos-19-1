@@ -53,6 +53,7 @@ Ahora, desde la computadoracomprobamos que el módulo sea detectado y tenga los 
 
 ![Conexión a la raspberry por uart](imagenes/UartConect.png)
 
-##Elaborado por:
+## Elaborado por:
     Martínez Aguilar Joaquín
+
     Martínez Gallegos Jesús
